@@ -17,6 +17,8 @@
 
 </details>
 
+![Visitor Count](https://profile-counter.glitch.me/{mohamed-elhamra}/count.svg)
+
 
 
 [twitter]: https://twitter.com/ElhamraMohamed
