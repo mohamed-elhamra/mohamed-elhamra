@@ -19,7 +19,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{mohamed-elhamra}/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elhamra&theme=vue&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elhamra)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/ElhamraMohamed
 [Youtube]: https://www.youtube.com/watch?v=WrMlUE3BVIo&t=47s&ab_channel=MohamedElhamra
