@@ -11,11 +11,13 @@
 <br />
 <hr />
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamed-elhamra&show_icons=true&theme=gotham" alt="Mohamed Elhamra | Stats" />
+  
+<!---  
 <details>
 <summary>📊 Github Stats</summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamed-elhamra&show_icons=true&theme=gotham" alt="Mohamed Elhamra | Stats" />
-
 </details>
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/{mohamed-elhamra}/count.svg)
 
